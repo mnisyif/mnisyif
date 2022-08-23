@@ -22,17 +22,17 @@ To reach me you can visit my website: <a href="https://www.mnisyif.com">mnisyif.
 -->
 ### Languages
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,py, js, java, html, css, php"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,java,html,css,php"/></a>
 </p>
 
 ### Framworks
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django, jquery, nodejs, react, tensorflow, heroku, linux, mysql, sqlite"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,jquery,nodejs,react,tensorflow,heroku,linux,mysql,sqlite"/></a>
 </p>
 
 ### Tools
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma, firebase, github, gitlab, visualstudio, vscode, vim"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,visualstudio,vscode,vim"/></a>
 </p>
 :D
 <!--
