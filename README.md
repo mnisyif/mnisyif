@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Murtadha a Computer Engineering student, learning all about web development and embedded systems. I am currently learning all techniques and methods used in full-stack web development.
+
+To reach me you can visit my website: mnisyif.com
+
+:D
 <!--
 **mnisyif/mnisyif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
