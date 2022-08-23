@@ -4,8 +4,6 @@ I am Murtadha a Computer Engineering student, learning all about web development
 
 To reach me you can visit my website: <a href="https://www.mnisyif.com">mnisyif.com </a>!
 
-### Tools & Languages
-
 <!---
 <p align="Left">
 <img src="http://img.shields.io/badge/-C-87818B?style=flat-square&logo=C&logoColor=ffffff">
@@ -34,7 +32,7 @@ To reach me you can visit my website: <a href="https://www.mnisyif.com">mnisyif.
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,visualstudio,vscode,vim"/></a>
 </p>
-:D
+
 <!--
 **mnisyif/mnisyif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
