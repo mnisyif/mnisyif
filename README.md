@@ -2,7 +2,7 @@
 
 I am Murtadha a Computer Engineering student, learning all about web development and embedded systems. I am currently learning all techniques and methods used in full-stack web development.
 
-To reach me you can visit my website: mnisyif.com
+To reach me you can visit my website: <a href="https://www.mnisyif.com">mnisyif.com </a>!
 
 ### Tools & Languages
 
