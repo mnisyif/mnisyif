@@ -16,7 +16,6 @@ To reach me you can visit my website: mnisyif.com
   <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff">
   <img src="https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html&logoColor=ffffff">
-  <img src="http://img.shields.io/badge/-JavaFx-F08E08?style=flat-square&logo=JavaFx&logoColor=ffffff">
   <img src="http://img.shields.io/badge/-VHDL-87818B?style=flat-square&logo=VHDL&logoColor=ffffff">
 </p>
 :D
