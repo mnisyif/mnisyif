@@ -6,6 +6,7 @@ To reach me you can visit my website: <a href="https://www.mnisyif.com">mnisyif.
 
 ### Tools & Languages
 
+<!---
 <p align="Left">
 <img src="http://img.shields.io/badge/-C-87818B?style=flat-square&logo=C&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Python-0D74E1?style=flat-square&logo=Python&logoColor=ffffff">
@@ -18,6 +19,9 @@ To reach me you can visit my website: <a href="https://www.mnisyif.com">mnisyif.
   <img src="https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html&logoColor=ffffff">
   <img src="http://img.shields.io/badge/-VHDL-87818B?style=flat-square&logo=VHDL&logoColor=ffffff">
 </p>
+-->
+[![My Skills](https://skills.thijs.gg/icons?i=C,C++,C#,python, javascript, java, react, nodejs, git, html, css, vhdl)](https://skills.thijs.gg)
+
 :D
 <!--
 **mnisyif/mnisyif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
